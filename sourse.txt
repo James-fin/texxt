@@ -6,4 +6,3 @@ meet.google.com
 hangouts.google.com
 instantmessaging-pa.googleapis.com
 instantmessaging-pa.clients6.google.com
-2ip.ru
