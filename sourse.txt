@@ -7,17 +7,3 @@ hangouts.google.com
 instantmessaging-pa.googleapis.com
 instantmessaging-pa.clients6.google.com
 promeai.pro
-googlevideo.com	
-m.youtube.com	
-youtu.be	
-youtube-ui.l.google.com	
-youtube.com	
-youtube.l.google.com	
-ytimg.com	
-ytimg.l.google.com	
-ytstatic.l.google.com	
-www.youtube.com
-*.youtube.com
-youtubei.googleapis.com
-youtube.googleapis.com
-www.youtube-nocookie.com
