@@ -7,3 +7,14 @@ hangouts.google.com
 instantmessaging-pa.googleapis.com
 instantmessaging-pa.clients6.google.com
 promeai.pro
+74.125.247.128
+google-ohttp-relay-safebrowsing.fastly-edge.com
+lh3.googleusercontent.com
+ogads-pa.clients6.google.com
+apis.google.com
+content-autofill.googleapis.com
+accounts.google.com
+ogs.google.com
+ssl.gstatic.com
+fonts.gstatic.com
+www.gstatic.com
