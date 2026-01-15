@@ -18,3 +18,4 @@ ogs.google.com
 ssl.gstatic.com
 fonts.gstatic.com
 www.gstatic.com
+rutor.info
