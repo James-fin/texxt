@@ -20,3 +20,4 @@ fonts.gstatic.com
 www.gstatic.com
 rutor.info
 veeam.com
+community.veeam.com
