@@ -23,3 +23,7 @@ veeam.com
 community.veeam.com
 4pda.to
 ilovepdf.com
+deepseek.com
+chat.deepseek.com
+platform.deepseek.com
+api.deepseek.com
