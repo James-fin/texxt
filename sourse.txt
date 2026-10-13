@@ -7,7 +7,6 @@ hangouts.google.com
 instantmessaging-pa.googleapis.com
 instantmessaging-pa.clients6.google.com
 promeai.pro
-74.125.247.128
 google-ohttp-relay-safebrowsing.fastly-edge.com
 lh3.googleusercontent.com
 ogads-pa.clients6.google.com
@@ -27,3 +26,4 @@ deepseek.com
 chat.deepseek.com
 platform.deepseek.com
 api.deepseek.com
+web.archive.org
